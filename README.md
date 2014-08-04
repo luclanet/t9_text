@@ -1,4 +1,4 @@
-Small test asked me during a job interview
+Numbers to T9 text
 =======
 
 Write a simplified function of T9 input method used in mobile phones.
